@@ -1,0 +1,1 @@
+Open index.html. The logo and both PDF downloads are embedded directly in index.html, so the website does not depend on relative file paths for the logo or downloads.
